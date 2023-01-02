@@ -1,5 +1,9 @@
 # Pokemon GO
 ## PURIFY
+### Anorith
+
+* 320 -> 1039
+
 ### Cacnea
 
 * 431 -> 850
